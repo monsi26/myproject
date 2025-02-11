@@ -7,7 +7,7 @@ import Form from "./components/Form";
 
 function App() {
   const person = {
-    name: "Candice",
+    name: "Simon",
     message: "Hi there!",
     emoji: "🫶",
     seatNumbers: [1, 4, 7],
